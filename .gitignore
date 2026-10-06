@@ -1,0 +1,11 @@
+bin/
+obj/
+*.db
+*.db-shm
+*.db-wal
+.vs/
+*.user
+wwwroot/uploads/members/*
+!wwwroot/uploads/members/.gitkeep
+wwwroot/uploads/trainers/*
+!wwwroot/uploads/trainers/.gitkeep
